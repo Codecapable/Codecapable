@@ -1,0 +1,12 @@
+# This public profile holds only approved text and visual assets.
+*.docx
+*.pdf
+*.py
+*.db
+*.sqlite
+*.csv
+.env
+.env.*
+*.key
+*.pem
+__pycache__/

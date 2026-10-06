@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Python research systems project card</title>
+  <desc id="desc">A portfolio graphic for private Python research and backtesting systems.</desc>
+  <rect width="1200" height="360" rx="24" fill="#f3f5f8"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="58" y="50" width="166" height="30" rx="15" fill="#dce8f4"/>
+  <text x="141" y="70" text-anchor="middle" fill="#245480" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.6">SELECTED WORK</text>
+  <text x="58" y="150" fill="#193c5a" font-family="Arial, sans-serif" font-size="56" font-weight="700">Python research systems</text>
+  <text x="60" y="203" fill="#445569" font-family="Arial, sans-serif" font-size="25">Data handling. Test automation. Result review.</text>
+  <text x="60" y="299" fill="#245480" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">PYTHON  ·  OANDA  ·  METATRADER 5</text>
+  <rect x="876" y="72" width="250" height="216" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <circle cx="926" cy="118" r="18" fill="#2a709f"/>
+  <circle cx="1002" cy="118" r="18" fill="#74b8c8"/>
+  <circle cx="1078" cy="118" r="18" fill="#2a709f"/>
+  <path d="M944 118h40m36 0h40" stroke="#8ba6ba" stroke-width="5"/>
+  <rect x="903" y="170" width="194" height="12" rx="6" fill="#d8e3eb"/>
+  <rect x="903" y="195" width="161" height="12" rx="6" fill="#d8e3eb"/>
+  <rect x="903" y="230" width="104" height="31" rx="7" fill="#2a709f"/>
+</svg>

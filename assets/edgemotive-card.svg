@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">EdgeMotive project card</title>
+  <desc id="desc">A portfolio graphic describing EdgeMotive as a Python strategy testing service with private reports.</desc>
+  <rect width="1200" height="360" rx="24" fill="#101114"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#4548ec" stroke-width="2"/>
+  <rect x="58" y="50" width="166" height="30" rx="15" fill="#292b70"/>
+  <text x="141" y="70" text-anchor="middle" fill="#c9cbff" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.6">SELECTED WORK</text>
+  <text x="58" y="154" fill="#ffffff" font-family="Arial, sans-serif" font-size="72" font-weight="700">EdgeMotive</text>
+  <text x="60" y="204" fill="#d8d9de" font-family="Arial, sans-serif" font-size="25">Historical tests. Clear reports.</text>
+  <text x="60" y="299" fill="#b8bbff" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1">PYTHON  ·  WEB SERVICE  ·  PRIVATE REPORTS</text>
+  <rect x="854" y="67" width="270" height="226" rx="18" fill="#1d1e25" stroke="#4749a7" stroke-width="2"/>
+  <rect x="878" y="91" width="222" height="24" rx="6" fill="#30325d"/>
+  <rect x="878" y="135" width="149" height="11" rx="5" fill="#777bf2"/>
+  <rect x="878" y="157" width="199" height="11" rx="5" fill="#43465a"/>
+  <rect x="878" y="179" width="174" height="11" rx="5" fill="#43465a"/>
+  <rect x="878" y="220" width="93" height="44" rx="8" fill="#4c50ed"/>
+  <path d="M1002 243h84" stroke="#a8abcd" stroke-width="8" stroke-linecap="round"/>
+</svg>
